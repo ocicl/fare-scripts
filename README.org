@@ -2,9 +2,8 @@
 
 Scripts written Common Lisp
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/fare/fare-scripts.git   |
-| commit  | e0710e2  |
-| systems | fare-scripts |
-|---------+-------------------------------------------|
-
+|---------+----------------------------------------------|
+| source  | git:https://github.com/fare/fare-scripts.git |
+| commit  | ab3443f                                      |
+| systems | fare-scripts                                 |
+|---------+----------------------------------------------|
